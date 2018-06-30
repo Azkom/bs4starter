@@ -1,11 +1,9 @@
 {
   "name": "bs4starter",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Bootstrap 4 Workflow based on Udemy course",
   "main": "index.js",
-  "scripts": {
-    "start": "gulp"
-  },
+  "scripts": {},
   "keywords": [
     "bootstrap4",
     "azkom",
@@ -14,14 +12,10 @@
   "author": "Azkom",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "4.0.0-beta",
+    "bootstrap": "^4.1.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9"
   },
-  "devDependencies": {
-    "browser-sync": "^2.23.6",
-    "gulp": "^3.9.1",
-    "gulp-sass": "^3.1.0"
-  }
+  "devDependencies": {}
 }
